@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\planosacao\\ordemservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\planosacao\\ordemservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\notificacoes\\notificacaoalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\notificacoes\\notificacaoalerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\planosacao\\historicoprazo5w2h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\planosacao\\historicoprazo5w2h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\planosacao\\evidenciafotografica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\planosacao\\evidenciafotografica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\planosacao\\planoacao5w2h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\planosacao\\planoacao5w2h.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\planosacao\\tipoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\planosacao\\tipoacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\naoconformidades\\naoconformidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\naoconformidades\\naoconformidade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\inspecoes\\participanteinspecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\inspecoes\\participanteinspecao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\inspecoes\\respostachecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\inspecoes\\respostachecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\inspecoes\\inspecaoisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\inspecoes\\inspecaoisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\inspecoes\\perguntachecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\inspecoes\\perguntachecklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\inspecoes\\categoriapergunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\inspecoes\\categoriapergunta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\acesso\\perfilacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\acesso\\perfilacesso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\acesso\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\acesso\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|c:\\users\\gabriel\\desktop\\baldan isp\\projeto isp\\projeto isp\\models\\setores\\setorarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A583985-004C-437D-906F-4A57DD4A1BEA}|Projeto ISP\\Projeto ISP.csproj|solutionrelative:projeto isp\\models\\setores\\setorarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificacaoAlerta.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Notificacoes\\NotificacaoAlerta.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Notificacoes\\NotificacaoAlerta.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Notificacoes\\NotificacaoAlerta.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Notificacoes\\NotificacaoAlerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:17:19.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoricoPrazo5W2H.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\HistoricoPrazo5W2H.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\PlanosAcao\\HistoricoPrazo5W2H.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\HistoricoPrazo5W2H.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\PlanosAcao\\HistoricoPrazo5W2H.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:16:40.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdemServico.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\OrdemServico.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\PlanosAcao\\OrdemServico.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\OrdemServico.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\PlanosAcao\\OrdemServico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:15:55.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EvidenciaFotografica.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\EvidenciaFotografica.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\PlanosAcao\\EvidenciaFotografica.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\EvidenciaFotografica.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\PlanosAcao\\EvidenciaFotografica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:15:23.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanoAcao5W2H.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\PlanoAcao5W2H.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\PlanosAcao\\PlanoAcao5W2H.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\PlanoAcao5W2H.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\PlanosAcao\\PlanoAcao5W2H.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:14:39.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TipoAcao.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\TipoAcao.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\PlanosAcao\\TipoAcao.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\PlanosAcao\\TipoAcao.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\PlanosAcao\\TipoAcao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:14:14.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NaoConformidade.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\NaoConformidades\\NaoConformidade.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\NaoConformidades\\NaoConformidade.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\NaoConformidades\\NaoConformidade.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\NaoConformidades\\NaoConformidade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:13:08.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipanteInspecao.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\ParticipanteInspecao.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Inspecoes\\ParticipanteInspecao.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\ParticipanteInspecao.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Inspecoes\\ParticipanteInspecao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:12:05.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RespostaChecklist.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\RespostaChecklist.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Inspecoes\\RespostaChecklist.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\RespostaChecklist.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Inspecoes\\RespostaChecklist.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:11:10.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InspecaoISP.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\InspecaoISP.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Inspecoes\\InspecaoISP.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\InspecaoISP.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Inspecoes\\InspecaoISP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:10:20.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PerguntaChecklist.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\PerguntaChecklist.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Inspecoes\\PerguntaChecklist.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\PerguntaChecklist.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Inspecoes\\PerguntaChecklist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:09:03.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriaPergunta.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\CategoriaPergunta.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Inspecoes\\CategoriaPergunta.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Inspecoes\\CategoriaPergunta.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Inspecoes\\CategoriaPergunta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T16:05:54.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PerfilAcesso.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Acesso\\PerfilAcesso.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Acesso\\PerfilAcesso.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Acesso\\PerfilAcesso.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Acesso\\PerfilAcesso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T15:40:21.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SetorArea.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Setores\\SetorArea.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Setores\\SetorArea.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Setores\\SetorArea.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Setores\\SetorArea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:40:01.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Acesso\\Usuario.cs",
+              "RelativeDocumentMoniker": "Projeto ISP\\Models\\Acesso\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\BALDAN ISP\\Projeto ISP\\Projeto ISP\\Models\\Acesso\\Usuario.cs",
+              "RelativeToolTip": "Projeto ISP\\Models\\Acesso\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T14:39:15.685Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
